@@ -1,10 +1,10 @@
 # uBlacklist subscription compilation
 > uBlacklist 订阅地址合集
 
-![Update uBlacklist subcription weekly](https://github.com/eallion/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main) [![](https://data.jsdelivr.com/v1/package/gh/eallion/uBlacklist-subscription-compilation/badge?style=rounded)](https://www.jsdelivr.com/package/gh/eallion/uBlacklist-subscription-compilation) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=eallion.uBlacklist-subscription-compilation)
+![Update uBlacklist subcription weekly](https://github.com/cielpy/uBlacklist-subscription-compilation/workflows/Update%20uBlacklist%20subcription%20weekly/badge.svg?branch=main) [![](https://data.jsdelivr.com/v1/package/gh/cielpy/uBlacklist-subscription-compilation/badge?style=rounded)](https://www.jsdelivr.com/package/gh/cielpy/uBlacklist-subscription-compilation) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=cielpy.uBlacklist-subscription-compilation)
 
 这是一个 uBlacklist 订阅地址合集，搜集了网上大部分的订阅地址合并成一个。  
-通过 [Github Actions](https://github.com/eallion/uBlacklist-subscription-compilation/actions) 每周自动更新一次。
+通过 [Github Actions](https://github.com/cielpy/uBlacklist-subscription-compilation/actions) 每周自动更新一次。
 
 本列表**比较激进**！会屏蔽少部分正规但低质量的中文网站。  
 所以个人建议搜索中文资料请用百度，uBlacklist 插件对百度无效。
@@ -36,25 +36,20 @@
 
 - GitHub 列表 （大陆部分地区可能被墙或者速度慢）
 
-`https://git.io/ublacklist`  
-`https://git.io/ublocklist` # For BLM
+https://github.com/cielpy/uBlacklist-subscription-compilation/raw/main/uBlacklist.txt
+https://github.com/cielpy/uBlacklist-subscription-compilation/raw/main/uBlocklist.txt # For BLM
 
 - CDN 加速列表
 
-`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlacklist.txt`
-`https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
+`https://cdn.jsdelivr.net/gh/cielpy/uBlacklist-subscription-compilation@main/uBlacklist.txt`
+`https://cdn.jsdelivr.net/gh/cielpy/uBlacklist-subscription-compilation@main/uBlocklist.txt` # For BLM
 
 上面4个列表的内容一模一样，任意选择一个即可。
 
-**能稳定访问 GitHub 的用户推荐使用：**  
-```
-https://git.io/ublacklist
-```
-> <https://git.io/ublacklist>
 
 示例图：
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
+![](https://cdn.jsdelivr.net/gh/cielpy/uBlacklist-subscription-compilation@main/tools/x2yWi62OWl.png)
 
 #### 设置 - 一般：（选填）
 
@@ -70,7 +65,7 @@ https://git.io/ublacklist
 ```
 如图：
 
-![](https://cdn.jsdelivr.net/gh/eallion/uBlacklist-subscription-compilation@main/tools/PKO0JoJBpU.png)
+![](https://cdn.jsdelivr.net/gh/cielpy/uBlacklist-subscription-compilation@main/tools/PKO0JoJBpU.png)
 
 # 贡献
 

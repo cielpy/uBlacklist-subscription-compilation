@@ -35,8 +35,6 @@ jobs:
         fi
 
     - name: Setup Git
-      env:
-          MY_SECRET : ${{secrets.commit_secret}}
       run: |
         git config --local user.name ${{secrets.username}}
         git config --local user.email ${{secrets.useremail}}
